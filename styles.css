@@ -1,0 +1,46 @@
+
+.navbar-brand{
+
+
+font-weight:500
+}
+h1{
+    text-align: center;
+    margin: 40px 0 0 0;
+    color: grey;
+}
+h6{
+    text-align: center;
+    margin: 0 0 20px 0;
+    color: grey;
+}
+hr{
+    width: 400px;
+   margin: 0 auto 30px auto;
+}
+
+img{
+    height: 700px;
+}
+#cart{
+    display: flex;
+    border: 1px solid rgba(128, 128, 128, 0.288);
+    border-radius: 5px;
+    margin: 40px;
+}
+.cart-img{
+        height: 300px;
+        max-width: 405px;
+}
+.card-txt{
+    margin: 50px 0  0 10px;
+    color: grey;
+
+}
+.card-txt2{
+    margin: 40px 0 0 10px ;
+    color: grey;
+    text-align: left;
+    line-height: 30px;
+
+}
